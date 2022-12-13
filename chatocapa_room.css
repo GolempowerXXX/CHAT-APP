@@ -1,0 +1,22 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+
+body
+{
+	background-image: linear-gradient(to right top, #00ff0b, #00ff58, #00ff81, #00ffa1, #00ffbc);
+}
+#trendingrooms{
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  color:blue;
+}
+img{
+  height: 200px;
+  width: 200px;
+}
+
+
